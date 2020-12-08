@@ -7,7 +7,7 @@ ways to keep your online representation very high.
 
 **changelog**       
 
-Changed all <div> tags in html to semantic html. 
+Changed all div tags in html to semantic html. 
 Changed all CSS Classes to match the html semantics.
 Reorded the CSS classes to be more in line with the html document.
 Added a title to be representive of the company.
